@@ -10,8 +10,8 @@ Inc facilities are subject to these Community Guidelines and Code of Conduct.
 We are dedicated to providing a harassment­-free experience for everyone, and we
 do not tolerate harassment of participants in any form. We ask you to be
 considerate of others and behave professionally and respectfully to all other
-participants. Sexual language and imagery is not appropriate for any event
-venue, including talks.
+participants. Offensive language and imagery, sexual or otherwise, is not 
+appropriate for any event venue, including talks.
 
 Participants violating these rules may be sanctioned or expelled from the event
 without a refund at the discretion of the organizers or Docker, Inc staff
@@ -22,7 +22,7 @@ Harassment includes (but is not limited to):
 - sexual images in public spaces
 - deliberate intimidation, stalking, following, harassing photography or recording
 - sustained disruption of talks or other events
-- inappropriate physical contact
+- inappropriate or unwanted physical contact
 - unwelcome sexual attention
 
 Participants asked to stop any harassing behavior are expected to comply
