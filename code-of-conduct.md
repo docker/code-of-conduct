@@ -9,7 +9,7 @@ Inc facilities are subject to these Community Guidelines and Code of Conduct.
 
 We are dedicated to providing a harassment­-free experience for everyone, and we
 do not tolerate harassment of participants in any form. We ask you to be
-considerate of others and behave professionally and respectfully to all other
+considerate of others and behave professionally and respectfully towards all other
 participants. Offensive language and imagery, sexual or otherwise, is not
 appropriate for any event venue, including talks.
 
