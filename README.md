@@ -18,3 +18,7 @@ text.
 
 To contribute, fork this repo, and submit a PR. We'll review, discuss, and merge
 changes as needed. Thank you!
+
+# To Do List:
+
+We'd like to expand the current CoC to include sections for our community channels including forums and IRC, and our meetups.
