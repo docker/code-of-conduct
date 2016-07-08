@@ -1,4 +1,4 @@
-# Docker Code of Conduct
+# Docker Code of Conductv2
 
 **We expect all participants to follow these rules at all event venues and
 related social events.**
