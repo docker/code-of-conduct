@@ -14,6 +14,7 @@ Our goal is to maintain a safe, helpful and friendly Docker community for everyo
 - Be kind.
 - Be respectful of other viewpoints and ideas.
 - Be supportive and look out for each other.
+- Assume good faith on the part of others. 
 
 ##Unacceptable Behavior
 
@@ -27,6 +28,8 @@ Harassment may include but not limited to the following:
 - Inappropriate or unwanted physical contact
 - Intimidation or bullying (online or in-person)
 - Unwelcome sexual attention
+
+Critical examination of beliefs, including critical commentary on another person’s views, does not, by itself, constitute hostile conduct or harassment. One of the underlying rationales of this Code of Conduct is to promote the free exchange of ideas, not to inhibit it.
 
 ##Reporting and Enforcement
 
