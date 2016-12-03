@@ -22,7 +22,7 @@ changes as needed. Thank you!
 # Translations available
 
 The Code of Conduct is currently available in:
-- English [code-of-conduct](code-of-conduct.md)
+- English [code-of-conduct-EN](code-of-conduct-EN.md)
 - Portuguese (Brazilian) [code-of-conduct-PT](code-of-conduct-PT.md) (contributors: @fike, @joaofnfernandes)
 
 # Wishlist/To Do List:
