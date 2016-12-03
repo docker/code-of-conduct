@@ -19,6 +19,23 @@ text.
 To contribute, fork this repo, and submit a PR. We'll review, discuss, and merge
 changes as needed. Thank you!
 
-# To Do List:
+# Translations available
 
-We'd like to expand the current CoC to include sections for our community channels including forums and IRC, and our meetups.
+The Code of Conduct is currently available in:
+- English [code-of-conduct](code-of-conduct.md)
+- Portuguese (Brazilian) [code-of-conduct-PT](code-of-conduct-PT.md) (contributors: @fike, @joaofnfernandes)
+
+# Wishlist/To Do List:
+
+We welcome contributions from community members interested in helping us maintain, and expand the coverage of this CoC.  To that end, we have a wishlist for edits:
+
+- include a section for each of our community channels
+  - forums
+  - Slack and/or IRC
+- translations of the CoC into other languages
+  - [Russian](https://github.com/docker/code-of-conduct/issues/14) (RU)
+  - [Spanish](https://github.com/docker/code-of-conduct/issues/13) (ES)
+  - [Japanese](https://github.com/docker/code-of-conduct/issues/15) (JP)
+  - [Korean](https://github.com/docker/code-of-conduct/issues/12) (KO)
+  - [Chinese (Simplified)](https://github.com/docker/code-of-conduct/issues/16) (ZH-Simple)
+  - [Chinese (Traditional)](https://github.com/docker/code-of-conduct/issues/18) (ZH-Trad)
