@@ -1,6 +1,6 @@
 # Docker Code of Conduct
 
-This repository contains the Docker, Inc. Open Source [Code of Conduct](code-of-conduct.md), used at DockerCon and other events, meetups, and user groups.
+This repository contains the Docker, Inc. Open Source [Code of Conduct](code-of-conduct-EN.md), used at DockerCon and other events, meetups, and user groups.
 
 # License
 
