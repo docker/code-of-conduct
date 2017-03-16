@@ -1,4 +1,4 @@
-##Introdução
+## Introdução
 
 Nós estamos dedicados a prover uma experiência livre de assédio para todos e não toleramos assédio dos participantes em qualquer forma. Nós pedimos a você que seja atencioso com os outros, se comporte profissionalmente e respeitosamente à todos outros participantes. Este código e procedimento relacionados também são aplicados para comportamento inaceitáveis que ocorram fora do escopo das atividades da comunidade, em todos locais da comunidade online e pessoalmente, bem como em toda comunicação individual e onde tal comportamento tenha potencial de prejudicar a segurança e o bem estar dos membros da comunidade. Exibidores, palestrantes, patrocinadores, staff e todos os outros participantes em eventos organizados pela Docker, Inc (DockerCon, meetups, grupo de usuários) ou mantidos em instalações Docker Inc. estão sujeitos a estas Diretrizes e Código de Conduta da Comunidade.
 
@@ -6,7 +6,7 @@ Diversidade e inclusão tornam a comunidade Docker forte. Nós encorajamos a par
 
 Nosso objetivo é manter uma comunidade Docker amigável, útil e segura para todos, independente da experiência, identidade e expressão de gênero, orientação sexual, deficiência, aparência pessoal, tamanho, raça, etnia, idade, religião, nacionalidade ou qualquer categoria protegida nos termos da lei.
 
-##Expectativa de comportamento
+## Expectativa de comportamento
 
 - Ser profissional.
 - Ser responsável.
@@ -15,7 +15,7 @@ Nosso objetivo é manter uma comunidade Docker amigável, útil e segura para to
 - Respeitar o ponto de vista dos outros e ideais diferentes.
 - Ser solidário e respeitoso o próximo.
 
-##Comportamento não esperado
+## Comportamento não esperado
 
 Assédio pode incluir a lista abaixo mas não limitado à ela:
 
@@ -28,7 +28,7 @@ Assédio pode incluir a lista abaixo mas não limitado à ela:
 - Intimidação ou bullying (online ou pessoalmente)
 - Atenção sexual não desejada
 
-##Relatórios e Aplicação
+## Relatórios e Aplicação
 
 - Se você sofrer ou testemunhar qualquer violação do Código de Conduta, por favor, entre em contato conosco pelo relatório de incidentes (inglês) [incident report](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1), ou por email dockercon@docker.com
 - Se necessário, staff da conferência poderão tomar as ações apropriadas, não limitado a elas, advertir, expulsar da conferência sem reembolso e encaminhar para segurança do local ou autoridade local.
