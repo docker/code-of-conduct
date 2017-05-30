@@ -25,7 +25,7 @@ The Code of Conduct is currently available in:
 - [English](code-of-conduct-EN.md)
 - [Portuguese (Brazilian)](code-of-conduct-PT.md) (contributors: @fike, @joaofnfernandes)
 - [Spanish](code-of-conduct-ES.md) (contributors: @amegianeg, @Carlaplzgnz)
-- [Japanese 日本語](code-of-conduct-JP.md) (contributors: @NaokiMatsumoto709, @chikaando)
+- [Japanese 日本語](code-of-conduct-JP.md) (contributors: @NaokiMatsumoto709, @chikaando, @AkihiroSuda)
 
 # Wishlist/To Do List:
 
