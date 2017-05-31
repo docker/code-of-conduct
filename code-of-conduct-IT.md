@@ -28,7 +28,7 @@ Questa è la lista non esaustiva delle possibili molestie:
 - Intimidazione o bullismo (online o di persona)
 - Apprezzamenti sessuali indesiderati
 
-## Informazione e contrasto
+## Denuncia e azioni di contrasto
 
 - Se sei l'oggetto oil  testimone di qualsiasi violazione di questo Codice di condotta, ti preghiamo di contattaci inviandoci un [resoconto dell'incidente](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1), o scrivici all'indirizzo email dockercon@docker.com.
 - Se necessario, il personale della conferenza conferenza è autorizzato ad adottare le azioni appropriate che includono, tra le altre, avvisi, espulsioni dalla conferenza senza diritto al rimborso e denuncia alla sicurezza del luogo e/o alle forze dell'ordine.
@@ -36,7 +36,7 @@ Questa è la lista non esaustiva delle possibili molestie:
 Questo codice basato sul [Codice di condotta degli sviluppatori di Slack](https://api.slack.com/docs/community-code-of-conduct), [The Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/), [geekfeminism.org](https://geekfeminism.org/about/code-of-conduct/) e sul [Codice di condotta degli eventi di Drupal](https://events.drupal.org/dublin2016/code-conduct).
 
 Quest'opera è rilasciata sotto licenza Creative Commons Attribuzione 3.0 Unported
-
+	
 Per l'attribuzione:
 
 "@Docker Code of Conduct" © 2016 Docker, Inc., utilizzata con licenza Creative Commons Attribution Unported: http://creativecommons.org/licenses/by/3.0/
