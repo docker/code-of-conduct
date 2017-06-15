@@ -11,7 +11,7 @@ Tujuan kami adalah untuk menjaga komunitas Docker yang aman, membantu serta rama
 - Bersikap profesional.
 - Bertanggung jawab.
 - Bersikap ramah.
-- Baik hati.
+- Bersikap baik hati.
 - Menghargai sudut pandang dan gagasan orang lain.
 - Memiliki sikap saling mendukung dan saling memperhatikan satu sama lain.
 
@@ -25,7 +25,7 @@ Pelecehan dapat mencakup namun tidak terbatas pada hal berikut:
 - Intimidasi yang disengaja, menguntit, fotografi atau rekaman yang melecehkan.
 - Sengaja mengganggu pembicaraan atau kejadian lainnya.
 - Kontak fisik yang tidak pantas.
-- Intimidasi atau pembulian (daring atau pribadi).
+- Intimidasi atau penindasan (daring atau pribadi).
 - Perhatian seksual yang tidak diinginkan.
 
 ## Pelaporan dan Penegakan
