@@ -26,7 +26,6 @@ The Code of Conduct is currently available in:
 - [Portuguese (Brazilian)](code-of-conduct-PT.md) (contributors: @fike, @joaofnfernandes)
 - [Spanish](code-of-conduct-ES.md) (contributors: @amegianeg, @Carlaplzgnz)
 - [Italian](code-of-conduct-IT.md) (contributor: @daftano)
-- [Bahasa Indonesia](code-of-conduct-ID.md) (contributors: @wisn, @refeed, @edawine, @berviantoleo, @nurainir)
 
 # Wishlist/To Do List:
 
