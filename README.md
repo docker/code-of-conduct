@@ -25,6 +25,7 @@ The Code of Conduct is currently available in:
 - [English](code-of-conduct-EN.md)
 - [Portuguese (Brazilian)](code-of-conduct-PT.md) (contributors: @fike, @joaofnfernandes)
 - [Spanish](code-of-conduct-ES.md) (contributors: @amegianeg, @Carlaplzgnz)
+- [Japanese 日本語](code-of-conduct-JP.md) (contributors: @NaokiMatsumoto709, @chikaando, @AkihiroSuda)
 - [Italian](code-of-conduct-IT.md) (contributor: @daftano)
 
 # Wishlist/To Do List:
@@ -37,7 +38,6 @@ We welcome contributions from community members interested in helping us maintai
 - translations of the CoC into other languages
   - [Russian](https://github.com/docker/code-of-conduct/issues/14) (RU)
   - [Spanish](https://github.com/docker/code-of-conduct/issues/13) (ES)
-  - [Japanese](https://github.com/docker/code-of-conduct/issues/15) (JP)
   - [Korean](https://github.com/docker/code-of-conduct/issues/12) (KO)
   - [Chinese (Simplified)](https://github.com/docker/code-of-conduct/issues/16) (ZH-Simple)
   - [Chinese (Traditional)](https://github.com/docker/code-of-conduct/issues/18) (ZH-Trad)
