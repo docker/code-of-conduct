@@ -1,8 +1,8 @@
 ## Wprowadzenie
 
-Jesteśmy mocno zmotywowani i nastawieni na stworzenie spotkań wolnych od dokuczania. Nie tolerujemy nękania uczestników organizowanych przez nas wydarzeń, w jakiejkolwiek formie. Prosimy, aby mieć na uwadze innych oraz zachowywać się profesjonalnie i z szacunkiem dla reszty uczestników. Ten kodeks i powiązane z nim zasady również dotyczącą nieakceptowalnych zachowań występujących poza obrębem aktywności społeczności Docker'a, we wszystkich miejscach związanych z ogranizowanych wydarzeniem— w sieci (online), a także osobiście— jak również we wszystkich formach komunikacji jeden-do-jeden i wszędzie, gdzie takie zachowanie ma potenclanie negatywny wpływ na poczucie bezpieczeństwa lub samopoczucie członków społeczności. Wystawcy, prelegenci, sponsorzy, personel oraz wszyscy inni uczestnicy spotkań organizowanych przez Docker, Inc (DockerCon, spotkania, grupy użytkowników) lub odbywających się w miejscach zarządzanych przez Docker, Inc są zobowiązani przestrzegać Wytycznych Społeczności ("Community Guidelines") oraz przedstawionego tutaj Kodeksu Postępowania ("Code of Conduct").
+Jesteśmy mocno zmotywowani i nastawieni na stworzenie spotkań wolnych od szykanowania. Nie tolerujemy nękania uczestników organizowanych przez nas wydarzeń, w jakiejkolwiek formie. Prosimy, aby mieć na uwadze innych oraz zachowywać się profesjonalnie i z szacunkiem dla reszty uczestników. Ten kodeks i powiązane z nim zasady również dotyczącą nieakceptowalnych zachowań występujących poza obrębem aktywności społeczności Docker'a, we wszystkich miejscach związanych z ogranizowanych wydarzeniem— w sieci (online), a także osobiście— jak również we wszystkich formach komunikacji jeden-do-jeden i wszędzie, gdzie takie zachowanie ma potenclanie negatywny wpływ na poczucie bezpieczeństwa lub samopoczucie członków społeczności. Wystawcy, prelegenci, sponsorzy, personel oraz wszyscy inni uczestnicy spotkań organizowanych przez Docker, Inc (DockerCon, spotkania, grupy użytkowników) lub odbywających się w miejscach zarządzanych przez Docker, Inc są zobowiązani przestrzegać Wytycznych Społeczności ("Community Guidelines") oraz przedstawionego tutaj Kodeksu Postępowania ("Code of Conduct").
 
-Różnorodność oraz poczucie przynależności czynią społeczność Dockera silną. Zachęcamy wszystkich, aby dołączali do nas z najbardziej jak to możliwe róźnorodnych kulturowo i światopoglądowo środowisk i chcemy bardzo jasno to zaznaczyć.
+Różnorodność oraz poczucie przynależności czynią społeczność Dockera silną. Zachęcamy wszystkich, aby dołączali do nas z najbardziej różnorodnych kulturowo i światopoglądowo środowisk i chcemy bardzo jasno to zaznaczyć.
 
 Naszym celem jest utrzymanie bezpiecznej, pomocnej i przyjaznej każdemu społeczności Docker'a, bez względu na płeć, tożsamość płciową, orientację seksualną, niepełnosprawność, wygląd, wagę, rasę, etniczne pochodzenie, wiek, religię, narodowość lub inne kategorie chronione obowiązującym prawem.
 
@@ -11,22 +11,22 @@ Naszym celem jest utrzymanie bezpiecznej, pomocnej i przyjaznej każdemu społec
 - Zachowaj profesjonalizm.
 - Zachowuj się odpowiedzialnie.
 - Zachowuj się przyjaźnie.
-- Zachowaj uprzejmość.
+- Kieruj się zasadami uprzejmości.
 - Szanuj pomysły innych oraz ich punkt widzenia.
-- Wspieraj i dbaj o innych.
+- Pomagaj i dbaj o innych.
 
 ## Nieakceptowalne zachowania
 
-Dokuczanie dotyczy, lecz nie ogranicza się do:
+Dręczenie dotyczy, lecz nie ogranicza się do:
 
 - Obraźliwych, nieodpowiednich lub niechcianych komentarzy na temat płci, tożsamości płciowej, orientacji seksualnej, niepełnosprawności, wyglądu, wagi, rasy, etnicznego pochodzenia, wieku, religii, narodowości lub innych kategorii chronionych obowiązującym prawem.
 - Wizualnego nękania, np. obrazy lub języka nacechowanego seksualnie na spotkaniach i wydarzeniach organizowanych przez społeczność Docker'a.
 - Braku poszanowania odmiennych opinii.
 - Celowego zastraszania, prześladowania, dokuczliwego fotografowania lub nagrywania.
-- Ciągłego zakłócaniea dyskusji lub innych wydarzeń.
+- Ciągłego zakłócania dyskusji lub innych wydarzeń.
 - Niestosownego lub niechcianego kontaktu fizycznego.
 - Zastraszania lub znęcania się (w sieci lub osobiście).
-- Niepożądanych uwag o podłożu seksualnym.
+- Niepożądanych zachowań i uwag o podłożu seksualnym.
 
 ## Raportowanie oraz egzekwowanie
 
