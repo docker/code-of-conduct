@@ -30,7 +30,7 @@
 
 ## 报告与强制实施
 
-- 如果你是受害者，或是任何违反准则的目击者，请联系我们。你可以提交[事件报告](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1)，或发送邮件到dockercon@docker.com
+- 如果你是受害者，或是任何违反准则的目击者，请联系我们。你可以提交[事件报告](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1)，或发送邮件到conduct@docker.com
 - 如果有必要，会议工作人员有权采取有效应对措施。这些措施包括但不限于：警告，移除出会议并且不给予任何退款，移交会场安全负责单位，或当地执法部门
 
 部分条款摘自[Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct),[The Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/), [geekfeminism.org](https://geekfeminism.org/about/code-of-conduct/) and [Drupal Events Code of Conduct](https://events.drupal.org/dublin2016/code-conduct)

@@ -33,7 +33,7 @@ El acoso puede incluir, pero no limitarse, lo siguiente:
 
 ## Información y ejecución
 
-- Si eres sujeto o testigo de alguna violación de este código de conducta, por favor contáctanos presentando un informe de incidencias[incident report](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1), o enviando un correo electrónico a dockercon@docker.com
+- Si eres sujeto o testigo de alguna violación de este código de conducta, por favor contáctanos presentando un informe de incidencias[incident report](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1), o enviando un correo electrónico a conduct@docker.com
 - Si fuera necesario, el personal de conferencias está capacitado para llevar acabo las acciones necesarias, las cuales pueden incluir, pero no limitarse a: advertencias, expulsión de la conferencia sin posibilidad de reembolso, y remisión a la seguridad de los locales y aplicación de la ley.
 
 Texto basado en [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct), [The Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/), [geekfeminism.org](https://geekfeminism.org/about/code-of-conduct/) y [Drupal Events Code of Conduct](https://events.drupal.org/dublin2016/code-conduct)

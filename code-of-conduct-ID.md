@@ -30,7 +30,7 @@ Pelecehan dapat mencakup namun tidak terbatas pada hal berikut:
 
 ## Pelaporan dan Penegakan
 
-- Jika Anda adalah korban atau saksi atas pelanggaran Kode Etik ini, silakan hubungi kami dengan mengirimkan [incident report](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1)  atau surat elektronik dockercon@docker.com
+- Jika Anda adalah korban atau saksi atas pelanggaran Kode Etik ini, silakan hubungi kami dengan mengirimkan [incident report](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1)  atau surat elektronik conduct@docker.com
 - Bila perlu, staf konferensi diberi wewenang untuk melakukan tindakan yang mungkin termasuk, namun tidak terbatas pada, peringatan, pengusiran dari konferensi tanpa pengembalian dana, dan rujukan ke tempat keamanan atau penegak hukum setempat.
 
 Bagian ini berasal dari [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct), [The Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/), [geekfeminism.org](https://geekfeminism.org/about/code-of-conduct/) dan [Drupal Events Code of Conduct](https://events.drupal.org/dublin2016/code-conduct)

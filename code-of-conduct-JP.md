@@ -30,7 +30,7 @@
 - 性的嫌がらせ
 
 ## 報告及び執行
-- この行為規範に反する行為を目撃、または自身が被害に遭った場合、[被害届](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1)もしくは dockercon@docker.com のメールを通じ連絡を行ってください。
+- この行為規範に反する行為を目撃、または自身が被害に遭った場合、[被害届](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1)もしくは conduct@docker.com のメールを通じ連絡を行ってください。
 - 必要の場合、会議のスタッフには警告、参加費返済なしの会議からの追放、または現地のセキュリティないし現地警察当局への委託などの適切な行動を取る権限が与えられています。
 
 Portions derived from the [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct), [The Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/), [geekfeminism.org](https://geekfeminism.org/about/code-of-conduct/) and [Drupal Events Code of Conduct](https://events.drupal.org/dublin2016/code-conduct)
