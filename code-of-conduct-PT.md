@@ -30,7 +30,7 @@ Assédio pode incluir a lista abaixo mas não limitado à ela:
 
 ## Relatórios e Aplicação
 
-- Se você sofrer ou testemunhar qualquer violação do Código de Conduta, por favor, entre em contato conosco pelo relatório de incidentes (inglês) [incident report](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1), ou por email dockercon@docker.com
+- Se você sofrer ou testemunhar qualquer violação do Código de Conduta, por favor, entre em contato conosco pelo relatório de incidentes (inglês) [incident report](https://docs.google.com/forms/d/e/1FAIpQLScezna1ZXRPzC_phSDoPEF4c5nvw8yQW-vvtI8xHjv-BB9MOg/viewform?c=0&w=1), ou por email conduct@docker.com
 - Se necessário, staff da conferência poderão tomar as ações apropriadas, não limitado a elas, advertir, expulsar da conferência sem reembolso e encaminhar para segurança do local ou autoridade local.
 
 Texto baseado nos [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct), [The Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/), [geekfeminism.org](https://geekfeminism.org/about/code-of-conduct/) e [Drupal Events Code of Conduct](https://events.drupal.org/dublin2016/code-conduct)
